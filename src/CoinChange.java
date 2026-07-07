@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class Solution {
+public class CoinChange {
 
     public int coinChange(
             int[] coins,

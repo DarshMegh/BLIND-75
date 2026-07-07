@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Solution {
+public class WordBreak {
 
     public boolean wordBreak(
             String s,

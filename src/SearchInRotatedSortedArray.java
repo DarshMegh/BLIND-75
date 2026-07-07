@@ -1,6 +1,6 @@
 // SearchInRotatedSortedArray.java
 
-class Solution {
+public class SearchInRotatedSortedArray {
 
     public int search(
             int[] nums,

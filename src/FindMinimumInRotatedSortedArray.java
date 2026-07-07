@@ -1,6 +1,6 @@
 // FindMinimumInRotatedSortedArray.java
 
-class Solution {
+public class FindMinimumInRotatedSortedArray {
 
     public int findMin(int[] nums) {
 
